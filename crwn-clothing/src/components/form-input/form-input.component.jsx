@@ -20,4 +20,4 @@ const FormInput = ( { label, ...otherProps } ) => {
     );
 }
 
-export default FormInput
+export default FormInput;
